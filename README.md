@@ -16,6 +16,25 @@ cd HOG_LBP
 python -m streamlit run app.py --server.port 8501
 ```
 
+### 2. **Neural Network** - Deep Learning Fundamentals Visualizer
+An interactive Streamlit application for understanding neural network concepts with visual animations and step-by-step walkthroughs.
+
+**Covers:**
+- 🔄 Forward Propagation - layer-by-layer computation
+- ⚡ Activation Functions - ReLU, Sigmoid, Tanh, Leaky ReLU, ELU
+- 📉 Loss Calculation - MSE, Cross Entropy, MAE
+- 🔙 Backpropagation - computing gradients through the network
+- 🎯 Gradient Descent - SGD, Mini-Batch GD, Batch GD optimization strategies
+
+**Location:** `neural_network/`
+**Tech Stack:** Streamlit, NumPy, Matplotlib, scikit-learn
+
+**To Run:**
+```bash
+cd neural_network
+python -m streamlit run app.py --server.port 8502
+```
+
 ## Repository Structure
 
 ```
