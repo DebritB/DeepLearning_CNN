@@ -1,1 +1,0 @@
-D:\DLCNNQUIZ\.venv\Scripts\python.exe -m streamlit run D:\DLCNNQUIZ\app.py --server.port 8501
