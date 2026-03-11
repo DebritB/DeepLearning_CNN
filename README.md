@@ -70,4 +70,5 @@ DLCNNQUIZ/
 ---
 
 **Author:** DebritB  
-**GitHub:** https://github.com/DebritB/DeepLearning_CNN
+**GitHub:** https://github.com/DebritB/DeepLearning_CNN  
+**LinkedIn:** https://www.linkedin.com/in/debrit-bhattacharyya-77622a210/
