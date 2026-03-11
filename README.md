@@ -67,10 +67,6 @@ DLCNNQUIZ/
    pip install -r requirements.txt
    ```
 
-## Future Projects
-- [ ] Project 2
-- [ ] Project 3
-
 ---
 
 **Author:** DebritB  
